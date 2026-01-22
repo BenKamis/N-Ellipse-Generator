@@ -1,4 +1,4 @@
-Pretty self-explanitory project I made for fun:
+Pretty self-explanatory project I made for fun:
 
 Set a number of foci and the program will put that number of foci randomly around a grid and find the n-ellipse centered around those foci.
 
